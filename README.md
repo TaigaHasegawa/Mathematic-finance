@@ -1,1 +1,1 @@
-# Mathmetic-finance
+# Mathematic-finance
